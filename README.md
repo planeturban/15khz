@@ -1,4 +1,13 @@
-# 15khz
+# 15khz Monitors
+
+*Disclaimer: 
+
+I've Copied everything from  [Appiah's excel sheet over at amibay](http://eab.abime.net/showthread.php?t=85693) nither (s)he of I can vouch for all the monitors.*
+
+
+# How to add to this list.
+
+Fork, edit, create pull request.
 
 
 |Brand         |Model                     |Type   |Screen Size|15kHz (AMIGA)|Comments                                                                                                                                                                                  |Notes|
