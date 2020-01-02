@@ -1,8 +1,8 @@
 # 15khz Monitors
 
-*Disclaimer: 
+*Disclaimer:*
 
-I've Copied everything from  [Appiah's excel sheet over at amibay](http://eab.abime.net/showthread.php?t=85693) nither (s)he of I can vouch for all the monitors.*
+*I've Copied everything from  [Appiah's excel sheet over at amibay](http://eab.abime.net/showthread.php?t=85693) nither (s)he of I can vouch for all the monitors.*
 
 
 # How to add to this list.
