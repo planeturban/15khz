@@ -1,7 +1,7 @@
 # 15khz
 
 
-|Brand         |Model                     |Type   |Screen Size|15kHz (AMIGA)|Comments                                                                                                                                                                                  |FIELD7|
+|Brand         |Model                     |Type   |Screen Size|15kHz (AMIGA)|Comments                                                                                                                                                                                  |Notes|
 |--------------|--------------------------|-------|-----------|-------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|
 |Acer          |AL1917                    |       |19         |No           |Monochrome works, but is not nicely centered. (for ATARI ST)                                                                                                                              |      |
 |Acer          |P206H                     |LCD/LED|20         |No           |                                                                                                                                                                                          |      |
