@@ -2,12 +2,12 @@
 
 *Disclaimer:*
 
-*I've Copied everything from  [Appiah's excel sheet over at abime](http://eab.abime.net/showthread.php?t=85693) niether (s)he of I can vouch for all the monitors.*
+*I've Copied everything from  [Appiah's excel sheet over at abime](http://eab.abime.net/showthread.php?t=85693) niether (s)he nor I can vouch for all the monitors.*
 
 
 # How to add to this list.
 
-Fork, edit, create pull request.
+[Fork repo, edit, create pull request.](https://github.com/planeturban/15khz)
 
 
 # The list
