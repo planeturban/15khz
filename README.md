@@ -226,3 +226,6 @@
 |Sun           |PN17JO                    |CRT    |17         |No           |                                                                                                                                                                                          |      |
 |Sun           |Sunray 170                |LCD    |17         |Yes          |                                                                                                                                                                                          |      |
 
+# VGA tester
+[Pocket-sized tester.](https://github.com/planeturban/15khzvgatester)
+
