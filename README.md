@@ -119,7 +119,7 @@
 |LG            |L1550S                    |LCD    |15         |No           |                                                                                                                                                                                          |      |
 |LG            |L1552S-SF                 |LCD/LED|15         |No           |                                                                                                                                                                                          |      |
 |LG            |L1553S                    |LCD    |15         |No           |                                                                                                                                                                                          |      |
-|LG            |L1717S                    |LCD    |17         |No           |                                                                                                                                                                                          |      |
+|LG            |L1717S                    |LCD    |17         |No           | Atari ST Monochrome mode works                                                                                                                                                           |New!  |
 |LG            |L173sa                    |LCD    |17         |No           |                                                                                                                                                                                          |      |
 |LG            |L1742P                    |LCD    |17         |No           |                                                                                                                                                                                          |      |
 |LG            |L1742S                    |LCD/LED|17         |No           |                                                                                                                                                                                          |      |
@@ -234,4 +234,3 @@
 
 # VGA tester
 [Pocket-sized tester.](https://github.com/planeturban/15khzvgatester)
-
