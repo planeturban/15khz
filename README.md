@@ -7,7 +7,7 @@
 
 # How to add to this list.
 
-[Fork repo, edit, create pull request.](https://github.com/planeturban/15khz)
+[Fork repo, edit, create pull request.](https://github.com/planeturban/15khz/blob/master/howtoadd.md)
 
 
 # The list
