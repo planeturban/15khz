@@ -14,7 +14,7 @@
 
 
 | Brand | Model | Type | Screen Size| 15kHz (AMIGA)| Comments | Notes|
-|--------------|--------------------------|-------|-----------|-------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|
+|-|-|-|-|-|-|-|
 | Acer | AL1917 | | 19 | No | Monochrome works, but is not nicely centered. (for ATARI ST) | |
 | Acer | K242HYL | LCD/LED| 23,8 | Yes | http://eab.abime.net/showpost.php?p=1206143&postcount=1 | |
 | Acer | P206H | LCD/LED| 20 | No | | |
@@ -96,8 +96,11 @@
 | Dell | WTI-P190S | LCD | 19 | No | | |
 | Eizo | 9050 | CRT | | Yes | Courtesy of idrougge (EAB) | New! |
 | Eizo | 9060 | CRT | | Yes | Courtesy of idrougge (EAB) | New! |
+| Eizo | Flexscan S1931 | TFT | | No/(Partial) | Not working at least with PAL: "Out of specification 50Hz" | New! |
 | Fujilink | A1901W | LCD/TV | 19 | Yes | | |
 | Fujitsu | C19-1| LCD | 19 | NO | | |
+| Fujitsu | B22W-5 ECO | LCD | 22 | NO | Black screen with PAL Amiga | New! |
+| Fujitsu Siemens| Scaleoview L19-2 L9ZA | LCD | 19 | NO | Black Screen with PAL. Further model number: K1117-V173 | New! |
 | GRADIENTE | 2730 | LCD/TV | 27 | Yes | | |
 | HP | L1750 | | 17 | No | no display in Low/Med Res (for ATARI ST) | |
 | HP | L1750 | | 17 | Partial | Monochrome works great on this screen, no borders on the sides. Just the top and bottom. (for ATARI ST) | |
@@ -113,6 +116,8 @@
 | LG | 1721a | | 17 | Yes | | |
 | LG | 1921a | | 19 | Yes | | |
 | LG | 26LG30R | LCD | 26 | No | | |
+| LG | D2542P-PN | LCD | 25 | No | Back screen / "out of spec 15kHz" | New! |
+| LG | D2780D | LCD | 27 | No | Back screen / "15kHz/50Hz Invalid Format" | New! |
 | LG | E1960T-PN | LCD/LED| 19 | No | | |
 | LG | E2050T | LCD/LED| 20 | No | | |
 | LG | IPS235 | LCD/LED| 23 | No | | |
@@ -140,6 +145,7 @@
 | LG | W1943C | LCD/LED| 19 | No | | |
 | LG | W2252TQ | LCD/LED| 22 | No | | |
 | LG | W2353V | LCD/LED| 24 | No | | |
+| Medion | MD 32117 PQ | LCD | 17 | No |"Mode not supported" (PAL Amiga) | New! |
 | Mitsubishi | Viseo MDT 152X | LCD/TV | 14 | Yes | | |
 | NEC | 1560 | | 15 | Yes | | |
 | NEC | 1525V | | 15 | Yes | | |
@@ -219,6 +225,7 @@
 | Samsung | SyncMaster P2770 | | 27 | Yes | | |
 | Samsung | SyncMaster SA350 | | 24 | Yes | | |
 | Samsung | SyncMaster T200HD | | 20 | No | This screen has a SCART input, Low/Med res works great on SCART. Monochrome works on the VGA input. VGA input does sync at 15 Khz HSYNC, but displays only half the screen. (for ATARI ST)| |
+| Samsung | SyncMaster X2370 | | 23 | No |"15kHz/50Hz invalid signal" | New! |
 | Sharp | Aquos LC32LE700UN | LCD/TV | 32 | Yes | | |
 | Sharp | LC-32SV202B | LCD/LED| 32 | No | | |
 | Sony | CPD-1302 | CRT | 13 | Yes | | |
