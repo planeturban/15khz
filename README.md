@@ -109,6 +109,7 @@
 | HP | LE1851W | LCD/LED| 18,5 | No | | |
 | HP COMPAC | LE 1711 | LCD | 17 | No | | |
 | HP Compaq | LA2205wg | LCD | 22 | No | | |
+| Huion | Kamvas Pro 22 (2019) | LCD | 22 | No | Atari ST Monochrome works | For best result in monochrome, settings around those values : Hpos 0, Vpos 0, Clock 82, Phase 70, Aspect 4:3 |
 | Idek/Iiyama | 5017 | CRT | 17 | Yes | Courtesy of idrougge (EAB) | New! |
 | Idek/Iiyama | 5021 | CRT | 21 | Yes | Courtesy of idrougge (EAB) | New! |
 | Idek/Iiyama | Prolite XU2290HS-B1 | LCD | 21.5 | Yes |[Tested on Atari ST](https://www.exxoshost.co.uk/forum/viewtopic.php?f=18&t=3465&p=52968#p52968) | New! |
