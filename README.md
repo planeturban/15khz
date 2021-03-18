@@ -151,7 +151,7 @@
 | NEC | 1560 | | 15 | Yes | | |
 | NEC | 1525V | | 15 | Yes | | |
 | NEC | 1550M | | 15 | Yes | Has speakers, low/med res border is large (for ATARI ST) | |
-| NEC | 1770NX | | 17 | Yes | | |
+| NEC | 1770NX | | 17 | No | | Update: from Yes to no. |
 | NEC | 195VX | | 19 | No | Out of Range Displayed for Low/Med resolution (for ATARI ST) | |
 | NEC | 1960NXi | | 19 | Yes | | |
 | NEC | 1970NX | | 19 | Yes | Needs modification to 'H. SIZE' in the menu for medium res to look good (for ATARI ST) | |
