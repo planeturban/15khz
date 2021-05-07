@@ -35,8 +35,10 @@
 | AOC | L229BXA007146 | LCD | 22 | No | | |
 | AOC | LM522 | LCD | 15 | No | | |
 | AOC | LM722 | LCD/LED| 17 | No | | |
+| Asus | PB248 | | 24 | Yes | PAL/NTSC, incorrect field order in interlace, no 4:3 aspect setting | |
 | Asus | VW227D | | 21 | Yes | | |
 | Asus | VE225 | | 22 | Yes | Standard Falcon resolutions too. TT030 works but not centered (for ATARI ST) | |
+| Asus | VH238T | | 23 | Yes | PAL/NTSC/Euro72, correct field order in interlace, no 4:3 aspect setting | |
 | Aydin Controls| SP 1499 | CRT | 13 | Yes | | |
 | Aydin Controls| Spectrum Autosync 9008 | CRT | 20 | Yes | | |
 | Aydin Controls| Spectrum Autosync 9026 | CRT | 28 | Yes | | |
