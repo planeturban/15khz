@@ -245,3 +245,7 @@
 
 # VGA tester
 [Pocket-sized tester.](https://github.com/planeturban/15khzvgatester)
+
+# Acorn RISC OS references:
+* [Screen modes](https://www.riscosopen.org/wiki/documentation/show/Screen%20Modes)  
+* [Monitor types](https://www.riscosopen.org/wiki/documentation/show/Monitor%20Types)
