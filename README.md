@@ -39,6 +39,7 @@
 | Asus | VW227D | | 21 | Yes | | |
 | Asus | VE225 | | 22 | Yes | Standard Falcon resolutions too. TT030 works but not centered (for ATARI ST) | |
 | Asus | VH238T | | 23 | Yes | PAL/NTSC/Euro72, correct field order in interlace, no 4:3 aspect setting | |
+| Asus | VZ249H | | 24 | No | Tested on Acorn A3010. Modes 12, 15, 27, 28 and 31 work, mode 39 fails, some Demos fail too. Not Recommended. | |
 | Aydin Controls| SP 1499 | CRT | 13 | Yes | | |
 | Aydin Controls| Spectrum Autosync 9008 | CRT | 20 | Yes | | |
 | Aydin Controls| Spectrum Autosync 9026 | CRT | 28 | Yes | | |
