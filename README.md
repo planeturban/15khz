@@ -22,6 +22,7 @@
 | Acer | S242HLK Cbid | LCD/LED| 24 | Yes | Mfg. Date Feb 2015, Confirmed 16:9, 4:3 AR unconfirmed | New! |
 | Acer | T232HL | | 23 | Partial | works, but pixels are uneven and pretty ugly. Also can't take out of 16:9 mode. | |
 | Acer | V223W | LCD/LED| 22 | No | | |
+| Acer | V223HQV | LCD | 22 | Yes | Workbench and games seem to work. Workbench Overscan works to almost full screen. Interlace modes flicker like chuff. | |
 | Acer | X183H | LCD/LED| 18,5 | No | | |
 | Advantech | FPM-2150G-XCE | LCD | 17 | No | | |
 | AOC | 212VA | LCD/LED| 22 | No | | |
