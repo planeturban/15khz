@@ -45,7 +45,7 @@
 | Aydin Controls| Spectrum Autosync 9008 | CRT | 20 | Yes | | |
 | Aydin Controls| Spectrum Autosync 9026 | CRT | 28 | Yes | | |
 | BenQ | BL2205PT | | 22 | Partial | Doesn't remember screen position. Uncorrectable aspect ratio. | |
-| BenQ | BL702A | | 17 | Partial | Doesn't remember screen position. | |
+| BenQ | BL702A | | 17 | Partial | Doesn't remember screen position. Monitor has VGA port only. <br>__Acorn RiscOS__: Tested modes 12, 15, 27, 28, 31, 35, 36 and 39 as working (normal + interlace). Demo "Adept" works, mode 23 (Hi-res mono, double vertical) is visibe but illegible. The Auto-Adjust button of the monitor finds a proper solution, if the picture is off-center. | |
 | Benq | BL912 | LCD/LED| 19 | Yes | | |
 | BenQ | FFP222Wa | | 22 | Yes | | |
 | Benq | G206HQL | LCD/LED| 20 | Yes | | |
