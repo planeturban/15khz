@@ -117,6 +117,7 @@
 | Idek/Iiyama | 5017 | CRT | 17 | Yes | Courtesy of idrougge (EAB) | New! |
 | Idek/Iiyama | 5021 | CRT | 21 | Yes | Courtesy of idrougge (EAB) | New! |
 | Idek/Iiyama | Prolite XU2290HS-B1 | LCD | 21.5 | Yes |[Tested on Atari ST](https://www.exxoshost.co.uk/forum/viewtopic.php?f=18&t=3465&p=52968#p52968) | New! |
+| Idek/Iiyama | ProLite X2783HSU | LCD | 27 | Yes | Using GGLABS CGA2RGB adaptor, rock solid picture! | New! |
 | Langwei | monitor chinês, sem modelo| LCD/TV | 15 | Yes | | |
 | LG | 1721a | | 17 | Yes | | |
 | LG | 1921a | | 19 | Yes | | |
