@@ -40,6 +40,7 @@
 | Asus | VW227D | | 21 | Yes | | |
 | Asus | VE225 | | 22 | Yes | Standard Falcon resolutions too. TT030 works but not centered (for ATARI ST) | |
 | Asus | VH238T | | 23 | Yes | PAL/NTSC/Euro72, correct field order in interlace, no 4:3 aspect setting | |
+| Asus | VX229H | LCD/LED| 21.5 | Yes | Tested on Amiga 600 with buffered 15 kHz VGA| New! | 
 | Asus | VZ249HE | | 24 | No | Tested on Acorn A3010. Modes 12, 15, 27, 28 and 31 work, mode 39 fails, some Demos fail too. Not Recommended. | |
 | Aydin Controls| SP 1499 | CRT | 13 | Yes | | |
 | Aydin Controls| Spectrum Autosync 9008 | CRT | 20 | Yes | | |
@@ -118,6 +119,7 @@
 | Idek/Iiyama | 5021 | CRT | 21 | Yes | Courtesy of idrougge (EAB) | New! |
 | Idek/Iiyama | Prolite XU2290HS-B1 | LCD | 21.5 | Yes |[Tested on Atari ST](https://www.exxoshost.co.uk/forum/viewtopic.php?f=18&t=3465&p=52968#p52968) | New! |
 | Idek/Iiyama | ProLite X2783HSU | LCD | 27 | Yes | Using GGLABS CGA2RGB adaptor, rock solid picture! | New! |
+| Iiyama | Vision Master Pro 413 | CRT | 17 | No | Sync not in range message | New! | 
 | Langwei | monitor chinês, sem modelo| LCD/TV | 15 | Yes | | |
 | LG | 1721a | | 17 | Yes | | |
 | LG | 1921a | | 19 | Yes | | |
@@ -126,6 +128,7 @@
 | LG | D2780D | LCD | 27 | No | Back screen / "15kHz/50Hz Invalid Format" | New! |
 | LG | E1960T-PN | LCD/LED| 19 | No | | |
 | LG | E2050T | LCD/LED| 20 | No | | |
+| LG | E2251T-BN | LCD/LED| 24 | No | Black screen on Amiga 600 | New! |
 | LG | IPS235 | LCD/LED| 23 | No | | |
 | LG | L1550S | LCD | 15 | No | | |
 | LG | L1552S-SF | LCD/LED| 15 | No | | |
