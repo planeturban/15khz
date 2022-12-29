@@ -107,6 +107,7 @@
 | Fujitsu | B22W-5 ECO | LCD | 22 | NO | Black screen with PAL Amiga | New! |
 | Fujitsu Siemens| Scaleoview L19-2 L9ZA | LCD | 19 | NO | Black Screen with PAL. Further model number: K1117-V173 | New! |
 | GRADIENTE | 2730 | LCD/TV | 27 | Yes | | |
+| HP | L1740 | LCD | 17 | No | | |
 | HP | L1750 | | 17 | No | no display in Low/Med Res (for ATARI ST) | |
 | HP | L1750 | | 17 | Partial | Monochrome works great on this screen, no borders on the sides. Just the top and bottom. (for ATARI ST) | |
 | HP | L185b | LCD | 18,5 | No | | |
