@@ -230,6 +230,7 @@
 | Samsung | SyncMaster 915T | LCD | 19 | Yes | | |
 | Samsung | SyncMaster 933 | LCD/LED| 19 | No | | |
 | Samsung | SyncMaster 940BE | | 19 | Partial | sometimes difficult to get it to sync without jitter, but you can do it | |
+| Samsung | SyncMaster E2220N | LCD/LED | 22 | No | | |
 | Samsung | SyncMaster BX1931 | LCD/LED| 19 | No | | |
 | Samsung | SyncMaster P2770 | | 27 | Yes | | |
 | Samsung | SyncMaster SA350 | | 24 | Yes | | |
