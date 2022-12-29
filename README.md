@@ -15,6 +15,7 @@
 
 | Brand | Model | Type | Screen Size| 15kHz (AMIGA)| Comments | Notes|
 |-|-|-|-|-|-|-|
+| Acer | AL1511eb | LCD | 15 | No | | |
 | Acer | AL1917 | | 19 | No | Monochrome works, but is not nicely centered. (for ATARI ST) | |
 | Acer | K242HYL | LCD/LED| 23,8 | Yes | http://eab.abime.net/showpost.php?p=1206143&postcount=1 | |
 | Acer | P206H | LCD/LED| 20 | No | | |
@@ -107,6 +108,7 @@
 | Fujitsu | B22W-5 ECO | LCD | 22 | NO | Black screen with PAL Amiga | New! |
 | Fujitsu Siemens| Scaleoview L19-2 L9ZA | LCD | 19 | NO | Black Screen with PAL. Further model number: K1117-V173 | New! |
 | GRADIENTE | 2730 | LCD/TV | 27 | Yes | | |
+| HP | L1740 | LCD | 17 | No | | |
 | HP | L1750 | | 17 | No | no display in Low/Med Res (for ATARI ST) | |
 | HP | L1750 | | 17 | Partial | Monochrome works great on this screen, no borders on the sides. Just the top and bottom. (for ATARI ST) | |
 | HP | L185b | LCD | 18,5 | No | | |
@@ -177,6 +179,7 @@
 | NOVA | LM-522N | LCD | 15 | No | | |
 | ONYX | SW1536LD TV/DVD combo | | 15 | No | UNSUPPORTED' shown when testing low/med res. This TV has SVIDEO inputs. HiRes gives blank screen (for ATARI ST) | |
 | Philco | TV PH32 LED A2 | LCD/LED| 32 | No | | |
+| Philips | 107E6 | CRT | 17 | No | | |
 | Philips | 107S | LCD/LED| 17 | No | | |
 | Philips | 150S | LCD/LED| 15 | No | | |
 | Philips | 190VW | LCD/LED| 19 | No | | |
@@ -230,6 +233,7 @@
 | Samsung | SyncMaster 915T | LCD | 19 | Yes | | |
 | Samsung | SyncMaster 933 | LCD/LED| 19 | No | | |
 | Samsung | SyncMaster 940BE | | 19 | Partial | sometimes difficult to get it to sync without jitter, but you can do it | |
+| Samsung | SyncMaster E2220N | LCD/LED | 22 | No | | |
 | Samsung | SyncMaster BX1931 | LCD/LED| 19 | No | | |
 | Samsung | SyncMaster P2770 | | 27 | Yes | | |
 | Samsung | SyncMaster SA350 | | 24 | Yes | | |
