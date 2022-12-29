@@ -55,7 +55,7 @@
 | BenQ | G922HDL | | 19 | Partial | Uncorrectable aspect ratio, interlaced mode flickers too much. | |
 | Benq | G925HDA | LCD/LED| 19 | No | | |
 | Benq | RL2240HE | LCD/LED| 22 | Yes | | |
-| Benq | V193HQV | LCD | 19 | Yes | | |
+| Acer | V193HQV | LCD | 19 | Yes | | |
 | BenQ | XL2410T | | 24 | Yes | | |
 | Benq | XL2720Z | LCD/LED| 27 | Yes | | |
 | CCE | LN14GW | LCD/LED| 14 | Yes | | |
