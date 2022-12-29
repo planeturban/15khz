@@ -177,6 +177,7 @@
 | NOVA | LM-522N | LCD | 15 | No | | |
 | ONYX | SW1536LD TV/DVD combo | | 15 | No | UNSUPPORTED' shown when testing low/med res. This TV has SVIDEO inputs. HiRes gives blank screen (for ATARI ST) | |
 | Philco | TV PH32 LED A2 | LCD/LED| 32 | No | | |
+| Philips | 107E6 | CRT | 17 | No | | |
 | Philips | 107S | LCD/LED| 17 | No | | |
 | Philips | 150S | LCD/LED| 15 | No | | |
 | Philips | 190VW | LCD/LED| 19 | No | | |
