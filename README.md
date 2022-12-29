@@ -15,6 +15,7 @@
 
 | Brand | Model | Type | Screen Size| 15kHz (AMIGA)| Comments | Notes|
 |-|-|-|-|-|-|-|
+| Acer | AL1511eb | LCD | 15 | No | | |
 | Acer | AL1917 | | 19 | No | Monochrome works, but is not nicely centered. (for ATARI ST) | |
 | Acer | K242HYL | LCD/LED| 23,8 | Yes | http://eab.abime.net/showpost.php?p=1206143&postcount=1 | |
 | Acer | P206H | LCD/LED| 20 | No | | |
