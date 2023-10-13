@@ -115,6 +115,7 @@
 | HP | L1950 | | 19 | Partial | Just like the L1750, but bigger screen. (for ATARI ST) | |
 | HP | LE1851W | LCD/LED| 18,5 | No | | |
 | HP COMPAC | LE 1711 | LCD | 17 | No | | |
+| HP COMPAC | LE1902x | LCD | 18.5 | Yes | | |
 | HP Compaq | LA2205wg | LCD | 22 | No | | |
 | Huion | Kamvas Pro 22 (2019) | LCD | 22 | No | Atari ST Monochrome works | For best result in monochrome, settings around those values : Hpos 0, Vpos 0, Clock 82, Phase 70, Aspect 4:3 |
 | Idek/Iiyama | 5017 | CRT | 17 | Yes | Courtesy of idrougge (EAB) | New! |
