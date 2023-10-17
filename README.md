@@ -58,6 +58,7 @@
 | Benq | RL2240HE | LCD/LED| 22 | Yes | | |
 | Acer | V193HQV | LCD | 19 | Yes | | |
 | BenQ | XL2410T | | 24 | Yes | | |
+| BenQ | XL2411 | | 24 | No | | Does not work, invalid mode |
 | Benq | XL2720Z | LCD/LED| 27 | Yes | | |
 | CCE | LN14GW | LCD/LED| 14 | Yes | | |
 | CIBOX | C1905 | | 19 | No | out of range' shown when testing low/med res (for ATARI ST) | |
@@ -93,6 +94,7 @@
 | Dell | ST2320L | | 23 | Yes | | |
 | Dell | ST2410 | LCD/LED| 24 | Yes | | |
 | Dell | U2212HM | LCD/LED| 22 | Yes | | |
+| Dell | U2211HT | LCD/LED| 22 | Yes | | Works fine, beautiful picture, direct Amiga with RGB adapter to VGA |
 | Dell | U2311H | LCD/LED| 23 | Yes | | |
 | Dell | U2312HM | LCD/LED| 23 | Yes | | |
 | Dell | U2410F | LCD/LED| 24 | Yes | VGA input tested, PiP works (for ATARI ST) | |
@@ -107,6 +109,7 @@
 | Fujitsu | C19-1| LCD | 19 | NO | | |
 | Fujitsu | B22W-5 ECO | LCD | 22 | NO | Black screen with PAL Amiga | New! |
 | Fujitsu Siemens| Scaleoview L19-2 L9ZA | LCD | 19 | NO | Black Screen with PAL. Further model number: K1117-V173 | New! |
+| Fujitsu Siemens| Scaleoview B19-3 | LCD | 19 | NO | Gives error message, cannot display 15khz | New! |
 | GRADIENTE | 2730 | LCD/TV | 27 | Yes | | |
 | HP | L1740 | LCD | 17 | No | | |
 | HP | L1750 | | 17 | No | no display in Low/Med Res (for ATARI ST) | |
