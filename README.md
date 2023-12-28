@@ -252,6 +252,7 @@
 | Sony | PVM-14M2U | CRT | 14 | Yes | | |
 | Sun | PN17JO | CRT | 17 | No | | |
 | Sun | Sunray 170 | LCD | 17 | Yes | | |
+| DEXP | QF321K | LCD | 32 | Yes | | |
 
 # VGA tester
 [Pocket-sized tester.](https://github.com/planeturban/15khzvgatester)
