@@ -12,12 +12,11 @@
 
 # The list
 
-
-| Brand | Model | Type | Screen Size| 15kHz (AMIGA)| Comments | Notes|
+| Brand | Model | Type | Screen Size| 15kHz (AMIGA)| Comments | Notes |
 |-|-|-|-|-|-|-|
 | Acer | AL1511eb | LCD | 15 | No | | |
 | Acer | AL1917 | | 19 | No | Monochrome works, but is not nicely centered. (for ATARI ST) | |
-| Acer | K242HYL | LCD/LED| 23,8 | Yes | http://eab.abime.net/showpost.php?p=1206143&postcount=1 | |
+| Acer | K242HYL | LCD/LED| 23,8 | Yes | [EAB_link](http://eab.abime.net/showpost.php?p=1206143&postcount=1) | |
 | Acer | P206H | LCD/LED| 20 | No | | |
 | Acer | P223w | | 22 | No | Monochrome works, but like the AL1917 not centered (for ATARI ST) | |
 | Acer | S242HLK Cbid | LCD/LED| 24 | Yes | Mfg. Date Feb 2015, Confirmed 16:9, 4:3 AR unconfirmed | New! |
@@ -117,7 +116,7 @@
 | HP COMPAC | LE 1711 | LCD | 17 | No | | |
 | HP COMPAC | LE1902x | LCD | 18.5 | Yes | | |
 | HP Compaq | LA2205wg | LCD | 22 | No | | |
-| Huion | Kamvas Pro 22 (2019) | LCD | 22 | No | Atari ST Monochrome works | For best result in monochrome, settings around those values : Hpos 0, Vpos 0, Clock 82, Phase 70, Aspect 4:3 |
+| Huion | Kamvas Pro 22 (2019) | LCD | 22 | No | Atari ST Monochrome works. For best result in monochrome, settings around those values : Hpos 0, Vpos 0, Clock 82, Phase 70, Aspect 4:3 | |
 | Idek/Iiyama | 5017 | CRT | 17 | Yes | Courtesy of idrougge (EAB) | New! |
 | Idek/Iiyama | 5021 | CRT | 21 | Yes | Courtesy of idrougge (EAB) | New! |
 | Idek/Iiyama | Prolite XU2290HS-B1 | LCD | 21.5 | Yes |[Tested on Atari ST](https://www.exxoshost.co.uk/forum/viewtopic.php?f=18&t=3465&p=52968#p52968) | New! |
@@ -162,7 +161,7 @@
 | NEC | 1560 | | 15 | Yes | | |
 | NEC | 1525V | | 15 | Yes | | |
 | NEC | 1550M | | 15 | Yes | Has speakers, low/med res border is large (for ATARI ST) | |
-| NEC | 1770NX | | 17 | No | | Update: from Yes to no. |
+| NEC | 1770NX | | 17 | No | Update: from Yes to no. | |
 | NEC | 195VX | | 19 | No | Out of Range Displayed for Low/Med resolution (for ATARI ST) | |
 | NEC | 1960NXi | | 19 | Yes | | |
 | NEC | 1970NX | | 19 | Yes | Needs modification to 'H. SIZE' in the menu for medium res to look good (for ATARI ST) | |
@@ -185,6 +184,8 @@
 | Philips | 150S | LCD/LED| 15 | No | | |
 | Philips | 190VW | LCD/LED| 19 | No | | |
 | Philips | 215VW | LCD/LED| 21,5 | No | | |
+| Philips | 221S9 | LCD | 21 | Yes | [EAB_link](https://eab.abime.net/showthread.php?p=1691844) | update:2024-06 |
+| Philips | 241S9 | LCD | 24 | Yes | [EAB_link](https://eab.abime.net/showthread.php?p=1691844) | update:2024-06 |
 | Philips | 240P4QPYN | LCD | 24 | Yes | | |
 | Philips | 32PFL3403/78 | LCD | 32 | No | | |
 | Philips | 32PFL5007G/78 | LCD/LED| 32 | No | | |
