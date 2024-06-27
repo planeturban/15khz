@@ -78,13 +78,14 @@
 | Commodore | 1950 (AOC CM314) | CRT | 14 | Yes | | |
 | Dell | 1505FP | | 15 | No | unsupported resolution' on screen in Low/Med Res (for ATARI ST) | |
 | Dell | 1702FP | | 17 | No | no display when testing low/med res (for ATARI ST) | |
+| Dell | 1704FPT | LCD | 17 | No | [YouTube](https://www.youtube.com/watch?v=S5AWtMJK_bQ) | update:2024-06 |
 | Dell | 1901FP | | 19 | No | input signal not supported' when testing low/med res (for ATARI ST) | |
 | Dell | 1901FP | | 19 | Yes | | |
 | Dell | 2001FP | | 20 | Partial | Doesn't remember screen position. Units manufactured until June 2005 work, those September 2005 and later don't. Interlaced modes flicker badly with RGB but look great with S-Video. | |
 | Dell | 2007WFb | LCD | 20 | No | | |
 | Dell | 2208WPf | LCD | 22 | No | | |
 | Dell | E153FPc | | | No | no display when testing low/med res (for ATARI ST) | |
-| Dell | E173 FP | LCD | 17 | No | | |
+| Dell | E173FP | LCD | 17 | No | | |
 | Dell | E176FPc | LCD/LED| 17 | No | unsupported resolution' on screen in Low/Med Res (for ATARI ST) | |
 | Dell | E1914H | | 19 | Yes | | |
 | Dell | SE2717H | LCD/LED| 27 | Partial | Has issues with interlaced modes | New! |
