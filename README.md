@@ -12,8 +12,7 @@
 
 # The list
 
-
-| Brand | Model | Type | Screen Size| 15kHz (AMIGA)| Comments | Notes|
+| Brand | Model | Type | Screen Size| 15kHz (AMIGA)| Comments | Notes |
 |-|-|-|-|-|-|-|
 | Acer | AL1511eb | LCD | 15 | No | | |
 | Acer | AL1917 | | 19 | No | Monochrome works, but is not nicely centered. (for ATARI ST) | |
@@ -185,6 +184,8 @@
 | Philips | 150S | LCD/LED| 15 | No | | |
 | Philips | 190VW | LCD/LED| 19 | No | | |
 | Philips | 215VW | LCD/LED| 21,5 | No | | |
+| Philips | 221S9 | LCD | 21 | Yes | [EAB_forum](https://eab.abime.net/showthread.php?p=1691844) | update:2024-06 |
+| Philips | 241S9 | LCD | 24 | Yes | [EAB_forum](https://eab.abime.net/showthread.php?p=1691844) | update:2024-06 |
 | Philips | 240P4QPYN | LCD | 24 | Yes | | |
 | Philips | 32PFL3403/78 | LCD | 32 | No | | |
 | Philips | 32PFL5007G/78 | LCD/LED| 32 | No | | |
