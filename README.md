@@ -126,6 +126,7 @@
 | Langwei | monitor chinês, sem modelo| LCD/TV | 15 | Yes | | |
 | Lenovo | Q24i-10 | LCD/LED | 23.8 | Yes | [espenskogblog](https://espenskogblog.wordpress.com/2021/04/29/amiga-compatible-modern-led-screen) | update:2024-06 |
 | Lenovo | Q24i-1L | LCD/LED | 23.8 | Yes | [EAB_link](https://eab.abime.net/showthread.php?t=115480) | update:2024-06 |
+| Lenovo | T22i | LCD/LED | 21.5 | Yes | [EAB_link](https://eab.abime.net/showpost.php?p=1376858&postcount=3) | update:2024-06 |
 | LG | 1721a | | 17 | Yes | | |
 | LG | 1921a | | 19 | Yes | | |
 | LG | 26LG30R | LCD | 26 | No | | |
