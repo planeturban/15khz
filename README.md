@@ -78,6 +78,7 @@
 | Commodore | 1950 (AOC CM314) | CRT | 14 | Yes | | |
 | Dell | 1505FP | | 15 | No | unsupported resolution' on screen in Low/Med Res (for ATARI ST) | |
 | Dell | 1702FP | | 17 | No | no display when testing low/med res (for ATARI ST) | |
+| Dell | 1704FPT | LCD | 17 | No | | [YouTube](https://www.youtube.com/watch?v=S5AWtMJK_bQ) | update:2024-06 |
 | Dell | 1901FP | | 19 | No | input signal not supported' when testing low/med res (for ATARI ST) | |
 | Dell | 1901FP | | 19 | Yes | | |
 | Dell | 2001FP | | 20 | Partial | Doesn't remember screen position. Units manufactured until June 2005 work, those September 2005 and later don't. Interlaced modes flicker badly with RGB but look great with S-Video. | |
@@ -123,6 +124,9 @@
 | Idek/Iiyama | ProLite X2783HSU | LCD | 27 | Yes | Using GGLABS CGA2RGB adaptor, rock solid picture! | New! |
 | Iiyama | Vision Master Pro 413 | CRT | 17 | No | Sync not in range message | New! | 
 | Langwei | monitor chinês, sem modelo| LCD/TV | 15 | Yes | | |
+| Lenovo | Q24i-10 | LCD/LED | 23.8 | Yes | [espenskogblog](https://espenskogblog.wordpress.com/2021/04/29/amiga-compatible-modern-led-screen) | update:2024-06 |
+| Lenovo | Q24i-1L | LCD/LED | 23.8 | Yes | [EAB_link](https://eab.abime.net/showthread.php?t=115480) | update:2024-06 |
+| Lenovo | T22i | LCD/LED | 21.5 | Yes | [EAB_link](https://eab.abime.net/showpost.php?p=1376858&postcount=3) | update:2024-06 |
 | LG | 1721a | | 17 | Yes | | |
 | LG | 1921a | | 19 | Yes | | |
 | LG | 26LG30R | LCD | 26 | No | | |
