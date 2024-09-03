@@ -217,6 +217,7 @@
 | Samsung | Syncmaster 151MP | LCD | 14 | Yes | | Fixed!|
 | Samsung | Syncmaster 170MP | LCD | 17 | Yes | | Fixed!|
 | Samsung | Syncmaster 171MP | LCD | 17 | Yes | | Fixed!|
+| Samsung | Syncmaster 172V | LCD | 17 | No | Not work with ATARI ST | NEW |
 | Samsung | SyncMaster 2043bw | | 20 | Partial | Monochrome is almost filling the whole screen, only a border at the bottom. (for ATARI ST) | |
 | Samsung | Syncmaster 204b | LCD/LED| 20 | Yes | | |
 | Samsung | SyncMaster 204B | LCD/LED| 20 | Yes | | |
@@ -233,11 +234,12 @@
 | Samsung | SyncMaster 743N | LCD/LED| 17 | No | | |
 | Samsung | SyncMaster 793V | CRT | 17 | No | | |
 | Samsung | SyncMaster 910MP | | 19 | Partial | Really blurry with 240p and 480i. | |
-| Samsung | SyncMaster 913N | LCD | 19 | Yes | | |
+| Samsung | SyncMaster 913N | LCD | 19 | No | "Not optimum mode. Recommended mode: 1280x1024 60Hz" | Update 08/2024 |
 | Samsung | SyncMaster 915N | LCD | 19 | Yes | | |
 | Samsung | SyncMaster 915T | LCD | 19 | Yes | | |
 | Samsung | SyncMaster 933 | LCD/LED| 19 | No | | |
 | Samsung | SyncMaster 940BE | | 19 | Partial | sometimes difficult to get it to sync without jitter, but you can do it | |
+| Samsung | SyncMaster 940BW | LCD | 19 | No | White screen and test pattern screen showed up when analog input selected | NEW |
 | Samsung | SyncMaster E2220N | LCD/LED | 22 | No | | |
 | Samsung | SyncMaster BX1931 | LCD/LED| 19 | No | | |
 | Samsung | SyncMaster P2770 | | 27 | Yes | | |
